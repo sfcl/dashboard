@@ -1,0 +1,374 @@
+/* start new */
+div.dashboard-ico.printer {
+  background: url(../../img/dashboard/print-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.cartridge {
+  background: url(../../img/dashboard/cartr-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.computer {
+  background: url(../../img/dashboard/workstation-100.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DeviceProcessor {
+  background: url(../../img/dashboard/processor-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DeviceMemory {
+  background: url(../../img/dashboard/ram-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DeviceHardDrive {
+  background: url(../../img/dashboard/hdd-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DeviceMotherboard {
+  background: url(../../img/dashboard/mb.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DeviceGraphicCard {
+  background: url(../../img/dashboard/video-card.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DeviceBattery {
+  background: url(../../img/dashboard/batteries-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DeviceCase {
+  background: url(../../img/dashboard/case-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DeviceControl {
+  background: url(../../img/dashboard/controller-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DeviceDrive {
+  background: url(../../img/dashboard/dvd-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DeviceFirmware {
+  background: url(../../img/dashboard/bios-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DeviceSoundCard {
+  background: url(../../img/dashboard/sound-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DevicePowerSupply {
+  background: url(../../img/dashboard/shutdown-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DevicePci {
+  background: url(../../img/dashboard/extension-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DeviceNetworkCard {
+  background: url(../../img/dashboard/network-card-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.DeviceMonitor {
+  background: url(../../img/dashboard/monitor.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.ce-os {
+  background: url(../../img/dashboard/operating-system-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.ce-agent {
+  background: url(../../img/dashboard/agent-64.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-ico.app-events {
+  background: url(../../img/dashboard/event-96.png) no-repeat center center;
+  background-size: 30px;
+}
+
+div.dashboard-item {
+  background-color: #fff;
+  width: 100%;
+  border-radius: 14px;
+  box-shadow: rgb(220, 225, 230) 0 1px 0 0, rgb(231, 232, 236) 0 0 0 1px;
+}
+
+div.carts {
+  background-color: #fff;
+  border-radius: 14px;
+  box-shadow: rgb(220, 225, 230) 0px 1px 0px 0px, rgb(231, 232, 236) 0px 0px 0px 1px;
+}
+
+div.dashboard-item2 div.dashboard-item-chart2 {
+  width: 300px;
+  height: 300px;
+}
+
+div.top_messages div.events {
+  overflow: hidden;
+  min-height: 420px;
+}
+
+div.dashboard-item2 {
+  background-color: #fff;
+  width: 100%;
+  border-radius: 14px;
+  min-height: 420px;
+  box-shadow: rgb(220, 225, 230) 0px 1px 0px 0px, rgb(231, 232, 236) 0px 0px 0px 1px;
+}
+
+div.dashboard-item-title {
+  font-size: 14px;
+  position: relative;
+  left: 14px;
+  top: 16px;
+}
+
+div.dashboard-item-title2 {
+  font-size: 20px;
+  padding: 16px 0 0 16px;
+}
+
+div.dashboard-item-chart2 {
+  box-sizing: border-box;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  background-color: transparent;
+}
+
+div.dashboard-item-text2 {
+  font-size: 16px;
+  padding: 0 16px 0;
+}
+
+div.dashboard-item-count2 {
+  font-size: 50px;
+  position: absolute;
+  font-weight: bold;
+  width: 100%;
+  height: 150px;
+  z-index: 100;
+}
+
+div.dashboard-item-text-param span.circle {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+div.dashboard-item-text {
+  font-size: 16px;
+  position: relative;
+  top: -15px;
+  padding: 0 14px 0;
+}
+
+div.dashboard-ico {
+  position: absolute;
+  top: 5px;
+  right: 20px;
+  width: 30px;
+  height: 30px;
+}
+
+div.dashboard-item-count {
+  font-size: 40px;
+  position: absolute;
+  font-weight: bold;
+  z-index: 100;
+  text-align: center;
+}
+
+div.dashboard-item-chart {
+  position: absolute;
+  z-index: 200;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+}
+
+div.dashboard-item-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 150px;
+  position: relative;
+}
+
+div.dashboard-item-text2 div.dashboard-item-text-param {
+  padding-bottom: 10px;
+}
+
+div.dashboard-item-text-param span.name {
+  width: 85%;
+  display: inline-block;
+  text-align: left;
+  font-size: 12px;
+}
+
+div.dashboard-item-text-param span.count {
+  width: 15%;
+  display: inline-block;
+  text-align: right;
+  font-weight: bold;
+}
+
+/* end new */
+.dashboard {
+    margin:0;
+    max-height:400px;
+    overflow: hidden;
+}
+
+table.top_events {
+    margin:0;
+    height:100%;
+    overflow: hidden;
+}
+
+table.statistics,
+table.dashboard {
+    width: 100%;
+}
+
+table.top_events th.date_and_time {
+    width:120px;
+}
+
+table.top_events td {
+    font-size: 12px;
+}
+
+.dashboard .pic {
+    padding:5px;
+    width: 60px;
+    height: 60px;
+}
+
+.dashboard .pic img {
+    width: 50px;
+    height: 50px;
+    padding:0;
+}
+
+.dashboard .quad{
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    font-size: 16px;
+    line-height: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.dashboard tr, .dashboard td {
+    height: 50px;
+}
+
+.dashboard_events {
+    width:100%;
+    height: 400px;
+    background: #f3f3f3 url(../../img/big_spinner.gif) no-repeat center center;
+    overflow: hidden;
+}
+
+.carts_charts, .printers_charts {
+    width:100%;
+    min-height: 400px;
+    background: #f3f3f3 url(../../img/big_spinner.gif) no-repeat center center;
+    overflow: hidden;
+}
+
+.dashboard_monitoring {
+    width:100%;
+    min-height: 80px;
+    background: #f3f3f3 url(../../img/big_spinner.gif) no-repeat center center;
+    overflow: hidden;
+}
+
+.dashboard td {
+    padding:0;
+    margin:0;
+}
+
+.pic a img{
+    border:0px;
+}
+
+td a.full_cell {
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    display: block;
+    line-height: 50px;
+    font-size: 13px;
+}
+
+div.top_events {
+    font-size: 12px;
+    line-height: 1.125em;
+    color: #222;
+    border: solid 1px #ddd;
+}
+
+div.event_pic {
+    width: 60px;
+    padding: 5px;
+    float: left;
+}
+
+span.event_date_time {
+    color: #888;
+}
+
+div.tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+div.view_printer_events div.tr {
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+div.view_printer_events div.event_pic {
+    padding: 5px;
+}
+
+div.event_text {
+    margin-left: 60px;
+    min-height: 60px;
+}
+
+div.event_text {
+    padding: 0.625em 0.75em 0.625em 0.75em;
+}
+
+#cart_charts_year,
+#cart_charts_month,
+#prnter_charts_year,
+#prnter_charts_month {
+    display: none;
+}
